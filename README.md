@@ -1,4 +1,4 @@
-# Brain_Game
+# Brain_RSNA
 Detection of acute intracranial hemorrhage and subtypes
 
 RSNA Intracranial Hemorrhage Detection
